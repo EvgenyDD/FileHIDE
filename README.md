@@ -1,0 +1,2 @@
+# FileHIDE
+Qt based virus
